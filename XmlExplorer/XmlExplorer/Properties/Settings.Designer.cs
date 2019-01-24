@@ -120,7 +120,7 @@ namespace XmlExplorer.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
         public bool UpgradeNeeded {
             get {
                 return ((bool)(this["UpgradeNeeded"]));
@@ -153,7 +153,7 @@ namespace XmlExplorer.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
         public bool CheckDefaultProgram {
             get {
                 return ((bool)(this["CheckDefaultProgram"]));

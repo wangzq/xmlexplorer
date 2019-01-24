@@ -27,7 +27,7 @@
       <Value Profile="(Default)" />
     </Setting>
     <Setting Name="UpgradeNeeded" Type="System.Boolean" Scope="User">
-      <Value Profile="(Default)">True</Value>
+      <Value Profile="(Default)">False</Value>
     </Setting>
     <Setting Name="RecentlyUsedFiles" Type="XmlExplorer.Controls.RecentlyUsedFilesStack" Scope="User">
       <Value Profile="(Default)" />
@@ -36,7 +36,7 @@
       <Value Profile="(Default)">http://www.codeplex.com/xmlexplorer/Project/ProjectRss.aspx?ProjectRSSFeed=codeplex://release/xmlexplorer</Value>
     </Setting>
     <Setting Name="CheckDefaultProgram" Type="System.Boolean" Scope="User">
-      <Value Profile="(Default)">True</Value>
+      <Value Profile="(Default)">False</Value>
     </Setting>
     <Setting Name="UpdateReleaseStatus" Type="XmlExplorer.Controls.ReleaseStatus" Scope="Application">
       <Value Profile="(Default)">Stable</Value>
